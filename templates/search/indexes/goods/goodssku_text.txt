@@ -1,0 +1,4 @@
+# 设置需要建立索引的类属性
+{{object.name}}
+{{object.desc}}
+{{object.goods.detail}}
